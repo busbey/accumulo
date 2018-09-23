@@ -172,8 +172,7 @@
       <dependency>
         <groupId>com.google.guava</groupId>
         <artifactId>guava</artifactId>
-        <!-- version known to work on at least some Hadoop versions -->
-        <version>14.0.1</version>
+        <version>26.0-jre</version>
       </dependency>
       <dependency>
         <groupId>com.google.protobuf</groupId>
